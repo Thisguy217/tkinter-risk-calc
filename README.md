@@ -5,5 +5,5 @@ is that I want to find a way to toplevel the theme window, but also am open to o
 
 
 ====================================================================================================================================================================
-WARNING: The Tkinter module only works on Windows or Linux, Mac keeps having it crash or not properly formatting things, I might build some more specific stuff later, but
+WARNING: The Tkinter module only works on Windows or Linux. Mac keeps having it crash or not properly formatting things, I might build some more specific stuff later, but
 if someone can help give access to MacOS we can collaborate and improve it for that.
